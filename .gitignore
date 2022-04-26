@@ -1,0 +1,5 @@
+# to ignore the all files named mylogs.log
+mylogs.log  
+
+# to ignore the only root element files named mylogs.log
+/mylogs.log
